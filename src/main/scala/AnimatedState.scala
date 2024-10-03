@@ -1,0 +1,2 @@
+
+trait AnimatedState extends EntityState
